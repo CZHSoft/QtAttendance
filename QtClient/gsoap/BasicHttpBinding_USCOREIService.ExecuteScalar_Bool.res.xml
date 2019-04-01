@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+ xmlns:SOAP-ENV="http://www.w3.org/2003/05/soap-envelope"
+ xmlns:SOAP-ENC="http://www.w3.org/2003/05/soap-encoding"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+ xmlns:ns1="http://tempuri.org/Imports"
+ xmlns:ns2="http://schemas.microsoft.com/2003/10/Serialization/Arrays"
+ xmlns:tempuri="http://tempuri.org/">
+ <SOAP-ENV:Body>
+  <tempuri:ExecuteScalar_BoolResponse>
+   <tempuri:ExecuteScalar_BoolResult>false</tempuri:ExecuteScalar_BoolResult>
+  </tempuri:ExecuteScalar_BoolResponse>
+ </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
